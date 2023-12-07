@@ -10,6 +10,7 @@ export default function Home() {
           </div>
           <div className={"text-xl text-gray-400"}>Ivanna Kolesnyk</div>
         </div>
+
         <div className={"border border-white rounded p-8 text-xl space-y-4"}>
           <div>NextJS</div>
           <div>React</div>
